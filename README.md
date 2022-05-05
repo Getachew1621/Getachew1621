@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Getachew1621
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Getachew1621/Getachew1621 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->I'm interested in structural design, software engineering and business works.
+I'm currently learning structural engineering.
+I'm looking to collaborate on design of new & attractive building structures and software developments.
+How to reach me on development of huge quantitative engineering softwares & new aesthetically pleasing building structures.
